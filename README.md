@@ -1,4 +1,4 @@
-# customer-shopping-behavior-analysis
+# Customer Shopping Behavior Analysis
 
 ## Domain
 
