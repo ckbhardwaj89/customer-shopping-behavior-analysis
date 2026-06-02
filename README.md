@@ -1,5 +1,9 @@
 # customer-shopping-behavior-analysis
 
+## Domain
+
+Retail / E-Commerce Analytics
+
 ## Project Overview 
 
 This project analyzes customer shopping behavior using transactional data from 3,900 purchases across various product categories. The objective is to uncover spending patterns, customer segments, product preferences, and subscription behavior to support business decision-making.
